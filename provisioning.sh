@@ -6,7 +6,7 @@
 
 ### Edit the following arrays to suit your workflow
 
-DISK_GB_REQUIRED=40
+DISK_GB_REQUIRED=30
 
 EXTENSIONS=(
     "https://github.com/Gourieff/sd-webui-reactor"
