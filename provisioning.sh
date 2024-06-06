@@ -40,8 +40,12 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
+<<<<<<< HEAD
     #"https://civitai.com/api/download/models/550933?type=Model&format=SafeTensor&size=full&fp=fp32"
     https://huggingface.co/cagliostrolab/animagine-xl-3.0/blob/main/animagine-xl-3.0.safetensors
+=======
+    "https://civitai.com/api/download/models/550933?type=Model&format=SafeTensor&size=full&fp=fp32"
+>>>>>>> c15b5bbe39376cb122aacd8faff2eacfb939a17c
 )
 
 LORA_MODELS=(
