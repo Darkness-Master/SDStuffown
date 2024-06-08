@@ -18,31 +18,31 @@ PIP_PACKAGES=(
 )
 
 EXTENSIONS=(
-    "https://github.com/Gourieff/sd-webui-reactor"
-    "https://github.com/catppuccin/stable-diffusion-webui"
-    "https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg"
-    "https://github.com/etherealxx/batchlinks-webui"
-    "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
-    "https://github.com/Mikubill/sd-webui-controlnet"
-    "https://github.com/hako-mikan/sd-webui-regional-prompter"
-    "https://github.com/Bing-su/adetailer"
-    "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111"
-    "https://github.com/hnmr293/sd-webui-cutoff"
-    "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete"
-    "https://github.com/mix1009/model-keyword"
-    "https://github.com/Uminosachi/sd-webui-inpaint-anything"
-    "https://github.com/fkunn1326/openpose-editor.git"
-    "https://github.com/cheald/sd-webui-loractl"
-    "https://github.com/mcmonkeyprojects/sd-dynamic-thresholding"
-    "https://github.com/Elldreth/loopback_scaler"
-    "https://github.com/thomasasfk/sd-webui-aspect-ratio-helper"
+    #"https://github.com/Gourieff/sd-webui-reactor"
+    #"https://github.com/catppuccin/stable-diffusion-webui"
+    #"https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg"
+    #"https://github.com/etherealxx/batchlinks-webui"
+    #"https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
+    #"https://github.com/Mikubill/sd-webui-controlnet"
+    #"https://github.com/hako-mikan/sd-webui-regional-prompter"
+    #"https://github.com/Bing-su/adetailer"
+    #"https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111"
+    #"https://github.com/hnmr293/sd-webui-cutoff"
+    #"https://github.com/DominikDoom/a1111-sd-webui-tagcomplete"
+    #"https://github.com/mix1009/model-keyword"
+    #"https://github.com/Uminosachi/sd-webui-inpaint-anything"
+    #"https://github.com/fkunn1326/openpose-editor.git"
+    #"https://github.com/cheald/sd-webui-loractl"
+    #"https://github.com/mcmonkeyprojects/sd-dynamic-thresholding"
+    #"https://github.com/Elldreth/loopback_scaler"
+    #"https://github.com/thomasasfk/sd-webui-aspect-ratio-helper"
     #"https://github.com/ljleb/sd-webui-freeu"
 )
 
 CHECKPOINT_MODELS=(
-    #https://civitai.com/api/download/models/324619?type=Model&format=SafeTensor&size=pruned&fp=fp16
+    https://civitai.com/api/download/models/324619
     #https://huggingface.co/cagliostrolab/animagine-xl-3.0/blob/main/animagine-xl-3.0.safetensors
-    https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_A.safetensors
+    #https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_A.safetensors
 
 )
 
