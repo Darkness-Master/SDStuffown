@@ -11,11 +11,11 @@ DISK_GB_REQUIRED=30
 MAMBA_PACKAGES=(
     #"package1"
     #"package2=version"
-)
-
+  )
+  
 PIP_PACKAGES=(
     "bitsandbytes==0.41.2.post2"
-)
+  )
 
 EXTENSIONS=(
     #"https://github.com/Gourieff/sd-webui-reactor"
@@ -40,7 +40,7 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-    https://civitai.com/api/download/models/324619
+    "https://civitai.com/api/download/models/324619"
     #https://huggingface.co/cagliostrolab/animagine-xl-3.0/blob/main/animagine-xl-3.0.safetensors
     #https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_A.safetensors
 
@@ -51,11 +51,9 @@ LORA_MODELS=(
 )
 
 VAE_MODELS=(
-    #"https://huggingface.co/hakurei/waifu-diffusion-v1-4/resolve/main/vae/kl-f8-anime2.ckpt"
-    #"https://huggingface.co/stabilityai/sd-vae-ft-ema-original/resolve/main/vae-ft-ema-560000-ema-pruned.safetensors"
-    #"https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
+    "https://huggingface.co/stabilityai/sd-vae-ft-ema-original/resolve/main/vae-ft-ema-560000-ema-pruned.safetensors"
+    "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
     "https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
-    #"https://civitai.com/api/download/models/550933?type=VAE&format=SafeTensor"
 )
 
 ESRGAN_MODELS=(
