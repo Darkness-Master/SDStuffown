@@ -36,13 +36,13 @@ EXTENSIONS=(
     "https://github.com/mcmonkeyprojects/sd-dynamic-thresholding"
     "https://github.com/Elldreth/loopback_scaler"
     "https://github.com/thomasasfk/sd-webui-aspect-ratio-helper"
-    "https://github.com/ljleb/sd-webui-freeu"
+    #"https://github.com/ljleb/sd-webui-freeu"
 )
 
 CHECKPOINT_MODELS=(
-    https://civitai.com/api/download/models/324619?type=Model&format=SafeTensor&size=pruned&fp=fp16
+    #https://civitai.com/api/download/models/324619?type=Model&format=SafeTensor&size=pruned&fp=fp16
     #https://huggingface.co/cagliostrolab/animagine-xl-3.0/blob/main/animagine-xl-3.0.safetensors
-    #https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_A.safetensors
+    https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_A.safetensors
 
 )
 
