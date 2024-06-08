@@ -18,7 +18,7 @@ PIP_PACKAGES=(
   )
 
 EXTENSIONS=(
-    #"https://github.com/Gourieff/sd-webui-reactor"
+    "https://github.com/Gourieff/sd-webui-reactor"
     #"https://github.com/catppuccin/stable-diffusion-webui"
     #"https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg"
     #"https://github.com/etherealxx/batchlinks-webui"
@@ -40,9 +40,9 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/324619"
-    #https://huggingface.co/cagliostrolab/animagine-xl-3.0/blob/main/animagine-xl-3.0.safetensors
-    #https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_A.safetensors
+    #"https://civitai.com/api/download/models/324619"
+    "https://huggingface.co/cagliostrolab/animagine-xl-3.0/blob/main/animagine-xl-3.0.safetensors"
+    #"https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_A.safetensors"
 
 )
 
@@ -51,8 +51,8 @@ LORA_MODELS=(
 )
 
 VAE_MODELS=(
-    "https://huggingface.co/stabilityai/sd-vae-ft-ema-original/resolve/main/vae-ft-ema-560000-ema-pruned.safetensors"
-    "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
+    #"https://huggingface.co/stabilityai/sd-vae-ft-ema-original/resolve/main/vae-ft-ema-560000-ema-pruned.safetensors"
+    #"https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
     "https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
 )
 
