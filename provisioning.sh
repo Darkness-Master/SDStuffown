@@ -42,7 +42,7 @@ EXTENSIONS=(
 CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/324619"
     #"https://huggingface.co/cagliostrolab/animagine-xl-3.0/blob/main/animagine-xl-3.0.safetensors"
-    #"https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_A.safetensors"
+    "https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_A.safetensors"
 
 )
 
