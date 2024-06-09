@@ -37,6 +37,7 @@ EXTENSIONS=(
     #"https://github.com/Elldreth/loopback_scaler"
     "https://github.com/thomasasfk/sd-webui-aspect-ratio-helper"
     "https://github.com/ljleb/sd-webui-freeu"
+    "https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT"
 )
 
 CHECKPOINT_MODELS=(
