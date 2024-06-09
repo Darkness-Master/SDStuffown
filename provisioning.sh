@@ -19,9 +19,9 @@ PIP_PACKAGES=(
 
 EXTENSIONS=(
     "https://github.com/Gourieff/sd-webui-reactor"
-    #"https://github.com/catppuccin/stable-diffusion-webui"
+    "https://github.com/catppuccin/stable-diffusion-webui"
     #"https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg"
-    #"https://github.com/etherealxx/batchlinks-webui"
+    "https://github.com/etherealxx/batchlinks-webui"
     "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
     "https://github.com/Mikubill/sd-webui-controlnet"
     "https://github.com/hako-mikan/sd-webui-regional-prompter"
@@ -40,9 +40,10 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
+    "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
     #"https://civitai.com/api/download/models/324619"
     #"https://huggingface.co/cagliostrolab/animagine-xl-3.0/blob/main/animagine-xl-3.0.safetensors"
-    "https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_A.safetensors"
+    #"https://huggingface.co/syaimu/7th_Layer/blob/main/7th_anime_v3/7th_anime_v3_A.safetensors"
 
 )
 
