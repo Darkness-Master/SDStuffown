@@ -27,6 +27,7 @@ EXTENSIONS=(
     "https://github.com/hako-mikan/sd-webui-regional-prompter"
     "https://github.com/Bing-su/adetailer"
     "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111"
+    "https://github.com/pkuliyi2015/sd-webui-stablesr"
     "https://github.com/hnmr293/sd-webui-cutoff"
     "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete"
     #"https://github.com/mix1009/model-keyword"
